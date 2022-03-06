@@ -102,6 +102,11 @@ body {
 a:hover, a:active {
     color: #2184f5;
 }
+.fondText
+{
+    background-color: #f4f5f8;
+    margin: 10px;
+}
 
 /* Image Responsive */
 .img-place {
@@ -115,6 +120,11 @@ a:hover, a:active {
 
 .img-place > img {
     width: 100%;height: auto;
+}
+.Taille
+{
+  height: :100px;
+  width: 200px;
 }
 
 /* Overlay */
